@@ -1,0 +1,10 @@
+c:\users\arián\documents\visual studio 2013\Projects\StopLights\StopLight\bin\Debug\StopLight.dll
+c:\users\arián\documents\visual studio 2013\Projects\StopLights\StopLight\bin\Debug\StopLight.pdb
+c:\users\arián\documents\visual studio 2013\Projects\StopLights\StopLight\obj\Debug\StopLight.dll
+c:\users\arián\documents\visual studio 2013\Projects\StopLights\StopLight\obj\Debug\StopLight.pdb
+c:\users\arián\documents\visual studio 2013\Projects\StopLights\StopLight\obj\Debug\StopLight.csprojResolveAssemblyReference.cache
+D:\School\3er año\1er Semestre\PDAS\StopLights\StopLight\bin\Debug\StopLight.dll
+D:\School\3er año\1er Semestre\PDAS\StopLights\StopLight\bin\Debug\StopLight.pdb
+D:\School\3er año\1er Semestre\PDAS\StopLights\StopLight\obj\Debug\StopLight.csprojResolveAssemblyReference.cache
+D:\School\3er año\1er Semestre\PDAS\StopLights\StopLight\obj\Debug\StopLight.dll
+D:\School\3er año\1er Semestre\PDAS\StopLights\StopLight\obj\Debug\StopLight.pdb
